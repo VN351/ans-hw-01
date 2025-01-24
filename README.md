@@ -34,7 +34,7 @@
 ---
 ## Ссылка на репозиторий с выполненой работой
 
-[Ссылка на конфигурацию Terraform](https://github.com/VN351/ter-hw-04-code/tree/master)
+[Ссылка на конфигурацию Terraform](https://github.com/VN351/ans-hw-01-code/tree/master)
 
 ![alt text](https://github.com/VN351/ans-hw-01/raw/main/images/task-1-1.png)
 ![alt text](https://github.com/VN351/ans-hw-01/raw/main/images/task-1-2.png)
