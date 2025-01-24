@@ -34,8 +34,9 @@
 ---
 ## Ссылка на репозиторий с выполненой работой
 
-[Ссылка на конфигурацию Terraform](https://github.com/VN351/ans-hw-01-code/tree/master)
+[Ссылка на конфигурацию Ansible и скрипт](https://github.com/VN351/ans-hw-01-code/tree/master)
 
+## Ответ на задания
 ![alt text](https://github.com/VN351/ans-hw-01/raw/main/images/task-1-1.png)
 ![alt text](https://github.com/VN351/ans-hw-01/raw/main/images/task-1-2.png)
 ![alt text](https://github.com/VN351/ans-hw-01/raw/main/images/task-1-3.png)
